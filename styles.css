@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xbkhEQc_CzoBDHPcrfHx9i5BLinolD8v6G0YLkMSOQ&usqp=CAU&ec=48665699');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.88;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+.card-header {
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.card {
+    min-height: 250px;
+    min-width: 500px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px black;
+    background-color: rgb(211, 211, 211);
+}
+.card-container {
+    padding: 10px;
+    
+}
+
+.list-group-item {
+    background-color:rgb(211, 211, 211);
+}
